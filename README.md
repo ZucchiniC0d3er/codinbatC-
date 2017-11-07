@@ -1,2 +1,3 @@
-# codinbatC-
-random c sharp code from today
+# codinbatC#
+the coding bat exercises done in c#
+http://codingbat.com/java
